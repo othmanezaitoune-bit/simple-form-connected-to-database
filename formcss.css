@@ -1,0 +1,27 @@
+body{
+    background-color: orange;
+    font-family: "poppins", sans-serif;
+}
+h1{
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+    border-radius: 250px;
+}
+form{
+    background-color: grey;
+    width: 300px;
+    padding : 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+    margin: 0 auto;
+}
+
+input{
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+p{
+    color: white;
+}
